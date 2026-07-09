@@ -15,7 +15,7 @@
 👯 &nbsp;I'm looking to collaborate on **open-source developer tools**  
 💬 &nbsp;Ask me about **JavaScript , React and Backend**  
 😄 &nbsp;Pronouns: **she/her**  
-⚡ &nbsp;Fun fact: **I made a Middle-earth themed VS Code extension using AI**
+
 
 ### 🛠️ Tech Stack
 
